@@ -1,0 +1,39 @@
+#map {
+  width:  800px;
+	height: 700px;
+}
+
+body {
+    background-color : #c6dbef;
+    margin:            30 100 0 100;
+	text-align       : center; 
+}
+
+p {
+    font-family      : "Times New Roman", Times, serif;
+    font-size        : 15px;
+    color            : gray;
+	text-align       : center; 
+}
+
+cite {
+    color:black;
+}
+
+h1 {
+    color:green;
+    font-size:25px;
+	text-align       : center; 
+}
+
+iframe {
+    display : block;
+    margin : auto;
+    width: 80%;
+	
+}
+
+table, th, td {
+    border: 1px solid black;
+	margin: 0 auto;
+}
